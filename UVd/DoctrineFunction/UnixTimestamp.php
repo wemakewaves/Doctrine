@@ -1,6 +1,6 @@
 <?php
 
-namespace UltravioletDesign\DoctrineFunction;
+namespace UVd\DoctrineFunction;
 
 use Doctrine\ORM\Query\Lexer;
 use Doctrine\ORM\Query\AST\Functions\FunctionNode;
